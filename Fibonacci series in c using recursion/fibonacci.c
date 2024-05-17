@@ -1,7 +1,7 @@
 #include<stdio.h>
 int fibo(int a);
 int main () {
-    int n;
+    int n; //here n is the numbers till where you want the series
 printf("Enter the number : ");
 scanf("%d",&n);
 
